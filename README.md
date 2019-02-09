@@ -30,4 +30,4 @@ Robot M-4IP / Robot K-8RU / Robot R-1BO / Fille du Froid / Garçon du Froid / Ex
 
 **Tambour fête de la musique**, quête du pirate // **Instruments**, scène
 
-[µBlock Origin](abp:subscribe?location=https://raw.githubusercontent.com/DimitriSpeaks/UBO-BFE/master/SkinsPouvoirs)
+**[µBlock Origin](abp:subscribe?location=https://raw.githubusercontent.com/DimitriSpeaks/UBO-BFE/master/SkinsPouvoirs)**
