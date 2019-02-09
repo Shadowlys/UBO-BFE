@@ -12,7 +12,7 @@ N'hésitez pas à me proposer des items dérangeant à rajouter dans ces listes.
 
 | Liste                         | Description                                                             |
 |:------------------------------|:------------------------------------------------------------------------|
-**[Skins & Pouvoirs](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DimitriSpeaks/UBO-BFE/master/SkinSPouvoirs)**| Cette liste permet de bloquer les skins et les pouvoirs présent dans celle-ci.
+**[Skins & Pouvoirs](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DimitriSpeaks/UBO-BFE/master/SkinsPouvoirs)**| Cette liste permet de bloquer les skins et les pouvoirs présent dans celle-ci.
 | **[Skins](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DimitriSpeaks/UBO-BFE/master/Skins)**| Cette liste permet de bloquer les skins présent dans celle-ci.
 | **[Pouvoirs](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DimitriSpeaks/UBO-BFE/master/Pouvoirs)**| Cette liste permet de bloquer les pouvoirs présent dans celle-ci.
 
