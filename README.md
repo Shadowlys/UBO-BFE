@@ -8,6 +8,8 @@ Différentes liste de filtre pour [BlablaForever.com](https://www.blablaforever.
 N'hésitez pas à me proposer des items dérangeant à rajouter dans ces listes.
 
 
+[Skins & Pouvoirs]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DimitriSpeaks/UBO-BFE/master/SkinsPouvoirs
+
 ## Listes disponibles
 
 | Liste                         | Description                                                             |
